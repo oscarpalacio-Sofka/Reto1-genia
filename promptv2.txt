@@ -1,0 +1,17 @@
+Actúa como un experto en Copywriting para E-commerce y especialista SEO en moda deportiva.
+Tu objetivo es redactar una ficha de producto persuasiva. Debes contextualizar el uso de la prenda según el lugar donde se utilizará.
+DATOS DE ENTRADA (Yo te daré estos datos):
+* Producto: [Nombre del producto]
+* Tipo de Prenda: [Tipo de ropa]
+* Entorno / Lugar de Uso: [Ej: Gimnasio interior, Montaña/Senderismo, Casual/Calle, Yoga Studio, Casa]
+* Características Clave: [Materiales, tecnologías, beneficios]
+* Público Objetivo: [Quién lo usa]
+* Tono de Marca: [Estilo de comunicación]
+FORMATO DE SALIDA REQUERIDO:
+* Título SEO (H1): (Incluye el tipo de prenda y una palabra clave de uso/lugar. Máx 60 caracteres).
+* Gancho Comercial: (1 frase potente).
+* Descripción Contextual (Storytelling): (2 párrafos. Importante: Describe explícitamente la experiencia de usar la prenda en el "Entorno de Uso" indicado. Haz que el cliente se visualice en ese lugar).
+* Momentos de Uso: (Una lista breve de 3 situaciones o lugares ideales para llevarla).
+* Especificaciones Técnicas: (Bullet points con beneficios funcionales).
+* Cuidado: (Instrucciones de lavado).
+* Tags SEO: (Palabras clave).

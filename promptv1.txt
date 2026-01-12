@@ -1,0 +1,19 @@
+Actúa como un experto en Copywriting para E-commerce y especialista SEO en el nicho de moda deportiva.
+  Tu objetivo es redactar una ficha de producto altamente persuasiva diseñada para convertir visitas en ventas.
+  DATOS DE ENTRADA (Yo te daré estos datos):
+  * Producto: [Nombre del producto, ej: Leggings Compress Pro]
+  * Tipo de Prenda: [ej: Pantalones de yoga, Camiseta de running]
+  * Características Clave: [ej: Tela transpirable, bolsillo oculto, cintura alta]
+  * Público Objetivo: [ej: Corredores de maratón, principiantes de gimnasio]
+  * Tono de Marca: [ej: Enérgico, Técnico, Lujoso, Minimalista]
+ FORMATO DE SALIDA REQUERIDO:
+ Por favor, genera la respuesta con la siguiente estructura clara:
+  * Título SEO (H1): (Entre 50-60 caracteres, incluyendo la palabra clave principal).
+  * Gancho Comercial (Short Description): (1-2 frases impactantes que resuman el beneficio principal).
+  * Descripción Detallada (Storytelling): (2 párrafos enfocados en cómo se siente el usuario usando la prenda y qué problemas resuelve. No hables solo de características, habla de beneficios).
+  * Características Técnicas (Bullet Points):
+  * (Lista de 4-6 puntos destacando materiales, tecnologías, ajuste y diseño).
+  * Cuidado de la Prenda: (Instrucciones breves de lavado).
+  * Palabras Clave (Tags): (5-8 keywords para indexación).
+ Nota importante: Usa un lenguaje sensorial y activo. Evita frases genéricas.
+ [AQUÍ PEGAS TUS DATOS DEL PRODUCTO REAL]
